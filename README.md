@@ -1,4 +1,4 @@
-# Gmail AI Inbox
+# EmailManager Interface
 
 <div style="display: flex; gap: 10px;">
   <img src="./images/landing.png" alt="Landing Page" width="45%" />
